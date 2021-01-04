@@ -1,6 +1,3 @@
 Punto de partida en el archivo historia.txt 
 
-
-Esta es la segunda modificacion en el archivo 
-
-Una tercera modificacion 
+Se agrego algo al checkout 
