@@ -3,3 +3,11 @@ body {
     font-family: sans-serif;
     color:black;
 }
+
+#cabecera {
+    background: rgb(49, 126, 42);
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
